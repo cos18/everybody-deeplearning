@@ -7,7 +7,7 @@
 
 ### conda 가상환경 생성방법
 ```
-$ conda env create -f environment.yaml
+$ conda env create -f environment.yml
 ```
 
 ### conda 가상환경 활성화
